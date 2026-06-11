@@ -1,4 +1,4 @@
-# Gau Shop
+# Simple  Shop
 
 A simple e-commerce platform for beginners, built with:
 
